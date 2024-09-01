@@ -1,0 +1,20 @@
+Start word : cold
+Target word : warm
+Chain of words :
+cold
+cord
+word
+ward
+warm
+
+
+
+Start word : small
+Target word : short
+Chain of words : 
+small
+shall
+shale
+share
+shore
+short
